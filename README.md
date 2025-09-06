@@ -39,14 +39,14 @@
 ---
 
 ## 📊 GitHub Stats
-![Aqib's GitHub stats](https://github-readme-stats.vercel.app/api?username=aqibrehmaan&show_icons=true&theme=tokyonight)  
+![Aqib's GitHub stats](https://github-readme-stats.vercel.app/api?username=aqibrehmandev&show_icons=true&theme=tokyonight)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aqibrehmaan&layout=compact&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aqibrehmandev&layout=compact&theme=tokyonight)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aqibrehmaan&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aqibrehmandev&theme=tokyonight)  
 
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: [linkedin.com/in/aqibrehmaan](https://linkedin.com/in/aqibrehmaan)  
+- LinkedIn: [linkedin.com/in/aqibrehmandev](https://linkedin.com/in/aqibrehmandev)  
 - Email: **aqibrehmandev@gmail.com**  

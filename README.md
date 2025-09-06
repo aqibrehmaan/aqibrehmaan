@@ -1,8 +1,8 @@
 # Hi, I'm Aqib 👋
-🚀 Full-Stack Web Developer | Laravel • Vue.js • React.js
+🚀 Full-Stack Web Developer | Laravel • Vue.js • React.js • Inertia.js • Livewire
 
 🔹 Building SaaS apps, multi-tenant systems, and scalable platforms.  
-🔹 5+ years of experience in PHP, Laravel, Vue, React, MySQL, Firebase.  
+🔹 5+ years of experience in PHP, Laravel, Vue, React, Livewire, MySQL, Firebase.  
 🔹 Passionate about clean code, problem-solving, and continuous learning.  
 
 ---
@@ -19,10 +19,10 @@
 
 ## 🌟 Featured Projects
 - **Multi-Tenant E-Commerce Platform** – Laravel + Vue + Inertia.js  
-- **POS + CRM System** – Shopify/WooCommerce integration  
-- **Learning Management System** – Udemy-style course platform  
+- **Module-Based POS + CRM System** – Shopify/WooCommerce integration  
 - **Issue Tracking System** – Migrated from Vue 2 → Vue 3 with Composition API  
-- **Monetized Articles System** – Medium-style threaded comment platform  
+- **Monetized Articles System** – Medium-style threaded comment platform
+- **Learning Management System** – Udemy-style course platform
 
 ---
 

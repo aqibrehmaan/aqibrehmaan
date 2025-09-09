@@ -29,7 +29,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aqibrehmandev&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aqibrehmaan&theme=tokyonight)  
 
 ---
 

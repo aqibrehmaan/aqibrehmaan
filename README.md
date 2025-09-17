@@ -2,7 +2,7 @@
 🚀 Full-Stack Web Developer | Laravel • Vue.js • React.js • Inertia.js • Livewire
 
 🔹 Building SaaS apps, multi-tenant systems, and scalable platforms.  
-🔹 5+ years of experience in PHP, Laravel, Vue, React, Livewire, MySQL.
+🔹 5+ years of experience in PHP, Laravel, Vue, React, Livewire, MySQL. 
 🔹 Passionate about clean code, problem-solving, and continuous learning.  
 
 ## 📊 GitHub Stats
